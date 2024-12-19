@@ -8,10 +8,11 @@ This repository contains a FastAPI-based application for crop recommendation, wh
 
 ## Features
 
-- **Crop Recommendation**: Uses a scikit-learn classifier trained on temperature, humidity, and rainfall data.
-- **Wheat MSP Prediction**: Utilizes a regression model to predict the MSP of wheat.
+- **Crop Recommendation**: Uses Random Forest classifier trained on temperature, humidity, and rainfall data.
+- **Wheat MSP Prediction**: Utilizes an XG Boost model to predict the MSP of wheat.
 - **Soil Type Classification**: Employs a Convolutional Neural Network (CNN) model for image classification of soil types.
 - **CORS Enabled**: Ensures cross-origin resource sharing for integration with other services.
+- **Jupyter Notebook**: Includes an interactive notebook for experimenting with soil classification model.
 
 ## Requirements
 
