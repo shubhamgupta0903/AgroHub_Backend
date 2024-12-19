@@ -130,10 +130,12 @@ This repository contains a FastAPI-based application for crop recommendation, wh
 │   ├── crop_recom_using_weather.pkl
 │   ├── wheat_msp.pkl
 │   └── cnn.h5
+├── Crop_Prediction.ipynb
 ├── main.py
+├── features.py
 ├── requirements.txt
-├── README.md
-└── Crop_Prediction.ipynb
+└── README.md
+
 
 ```
 
