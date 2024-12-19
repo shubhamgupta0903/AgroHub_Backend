@@ -132,7 +132,9 @@ This repository contains a FastAPI-based application for crop recommendation, wh
 │   └── cnn.h5
 ├── main.py
 ├── requirements.txt
-└── README.md
+├── README.md
+└── Crop_Prediction.ipynb
+
 ```
 
 ## Contributing
